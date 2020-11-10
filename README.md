@@ -5,6 +5,10 @@
 
 Identifiez votre serveur et vérifiez si vos amis sont sur le même.
 
+## Téléchargement
+
+Pour télécharger l'application, [c'est par ici](https://github.com/MeTaLiKiD/SoT-FindYourFriends/releases/download/v1.0.0/SoTFindYourFriends_1.0.0.exe).
+
 ## Utilisation
 
 ![RunAsAdmin](https://raw.githubusercontent.com/MeTaLiKiD/SoT-FindYourFriends/master/doc/run-as-admin.png)
